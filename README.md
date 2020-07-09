@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on
 1. **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
 2. **Picklst** - List Sharing
-3. **Squadegy** - Fantasy Sports Appp
+3. **Squadegy** - Fantasy Sports App
 
 ### 🌱 I’m currently learning ...
 1. WebRTC / Web Torrent
