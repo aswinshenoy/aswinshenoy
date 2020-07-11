@@ -31,8 +31,6 @@
 - Vidyut 2020 Web Services
 - Google Summer of Code with Salesforce Open Source
 - The *ORIGINAL MAKER* of amFOSS CMS / amFOSS Website
-
-![Ashwin Shenoy's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinshenoy&show_icons=true&hide_border=false)
 <!--
 - 😄 Pronouns: ...
 ### ⚡ Fun fact: ...
