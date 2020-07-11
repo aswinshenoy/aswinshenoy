@@ -5,9 +5,10 @@
 #### Innovator | Problem Solver | Technologist
 
 #### 🔭 I’m currently working on
-1. **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
-2. **Picklst** - List Sharing
-3. **Squadegy** - Fantasy Sports App
+1. **Picklst** - List Sharing
+2. **Squadegy** - Fantasy Sports App
+3. **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
+
 
 #### 🌱 I’m currently learning ...
 1. WebRTC / Web Torrent
@@ -20,7 +21,7 @@
 #### 🤔 I’m looking for help with ...
 1. BayJDO
 
-#### Past Projects
+#### 👨🏻‍💻 Past Projects
 - Vidyut 2020 Web Services
 - Google Summer of Code with Salesforce Open Source
 - The *ORIGINAL MAKER* of amFOSS CMS / amFOSS Website
@@ -34,7 +35,7 @@
 #### 📫 How to reach me: ...
 - **Email:** aswinshenoy65@gmail.com
 
-
+![Ashwin Shenoy's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinshenoy&show_icons=true&hide_border=false)
 <!--
 - 😄 Pronouns: ...
 ### ⚡ Fun fact: ...
