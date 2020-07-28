@@ -1,4 +1,5 @@
 ## Namaste 🙏 I am Ashwin
+![](https://komarev.com/ghpvc/?username=aswinshenoy)
 [![twitter badge](https://img.shields.io/badge/twitter-aswinshenoy_-0077b5?style=social&logo=twitter)](https://twitter.com/aswinshenoy_)
 [![linkedin badge](https://img.shields.io/badge/linkedin-aswinshenoy-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/aswinshenoy/)
 [![blog badge](https://img.shields.io/badge/blog-aswinshenoy.com-1f425f?style=social)](https://aswinshenoy.com/)
@@ -31,6 +32,8 @@
 - Vidyut 2020 Web Services
 - Google Summer of Code with Salesforce Open Source
 - The *ORIGINAL MAKER* of amFOSS CMS / amFOSS Website
+
+![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinshenoy&show_icons=true&hide_border=true)
 <!--
 - 😄 Pronouns: ...
 ### ⚡ Fun fact: ...
