@@ -20,15 +20,15 @@
 #### 🔭 I’m currently working on
 1. **Picklst** - List Sharing
 2. **Squadegy** - Fantasy Sports App
-3. **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
 
 **🌱 I’m currently learning -**  WebRTC / Web Torrent / WebSockets
 
-**👯 I’m looking to collaborate on -** BayJDO / Squadegy (contact for Internships)
+**👯 I’m looking to collaborate on -** Squadegy (contact for Internships)
 
 **🤔 I’m looking for help with -** BayJDO
 
 #### 👨🏻‍💻 Past Projects
+- **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
 - Vidyut 2020 Web Services
 - Google Summer of Code with Salesforce Open Source
 - The *ORIGINAL MAKER* of amFOSS CMS / amFOSS Website
