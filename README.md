@@ -18,8 +18,7 @@
 
 
 #### 🔭 I’m currently working on
-1. **Picklst** - List Sharing
-2. **Squadegy** - Fantasy Sports App
+**Squadegy** - Fantasy Sports App
 
 **🌱 I’m currently learning -**  WebRTC / Web Torrent / WebSockets
 
