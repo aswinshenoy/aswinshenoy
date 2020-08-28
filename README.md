@@ -18,7 +18,7 @@
 
 
 #### 🔭 I’m currently working on
-**Squadegy** - Fantasy Sports App
+**Squadegy** - Strategy Sports App
 
 **🌱 I’m currently learning -**  WebRTC / Web Torrent / WebSockets
 
