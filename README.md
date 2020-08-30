@@ -16,16 +16,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-
-#### 🔭 I’m currently working on
-**Squadegy** - Strategy Sports App
-
-**🌱 I’m currently learning -**  WebRTC / Web Torrent / WebSockets
-
-**👯 I’m looking to collaborate on -** Squadegy (contact for Internships)
-
-**🤔 I’m looking for help with -** BayJDO
-
 #### 👨🏻‍💻 Past Projects
 - **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
 - Vidyut 2020 Web Services
