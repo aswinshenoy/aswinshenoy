@@ -16,8 +16,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+#### Working on 
+* **Squadegy** - Strategy Sport Fantasy App - https://squadegy.com
+
 #### 👨🏻‍💻 Past Projects
 - **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
+- Picklst - List Sharing Application
 - Vidyut 2020 Web Services
 - Google Summer of Code with Salesforce Open Source
 - The *ORIGINAL MAKER* of amFOSS CMS / amFOSS Website
