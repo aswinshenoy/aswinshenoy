@@ -1,9 +1,10 @@
-## Namaste 🙏 I am Ashwin
+## Ashwin Shenoy
+#### Innovator | Problem Solver | Technologist
+
 ![](https://komarev.com/ghpvc/?username=aswinshenoy)
 [![twitter badge](https://img.shields.io/badge/twitter-aswinshenoy_-0077b5?style=social&logo=twitter)](https://twitter.com/aswinshenoy_)
 [![linkedin badge](https://img.shields.io/badge/linkedin-aswinshenoy-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/aswinshenoy/)
 [![blog badge](https://img.shields.io/badge/blog-aswinshenoy.com-1f425f?style=social)](https://aswinshenoy.com/)
-#### Innovator | Problem Solver | Technologist
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -23,8 +24,8 @@
 - **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
 - Picklst - List Sharing Application
 - Vidyut 2020 Web Services
-- Google Summer of Code with Salesforce Open Source
-- The *ORIGINAL MAKER* of amFOSS CMS / amFOSS Website
+- Google Summer of Code 19 with Salesforce Open Source 
+- Core Developer [amFOSS CMS](https://github.com/amfoss/cms) / [amFOSS Website](https://github.com/amfoss/website)
 
 ![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinshenoy&show_icons=true&hide_border=true)
 <!--
