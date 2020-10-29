@@ -23,14 +23,8 @@
 #### 👨🏻‍💻 Past Projects
 - **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
 - Picklst - List Sharing Application
-- Vidyut 2020 Web Services
-- Google Summer of Code 19 with Salesforce Open Source 
-- Core Developer [amFOSS CMS](https://github.com/amfoss/cms) / [amFOSS Website](https://github.com/amfoss/website)
+- Web Services for Vidyut 2020 
+- Google Summer of Code (GSoC) 2019 with Salesforce Open Source - [View Project Report](https://gist.github.com/aswinshenoy/36a1a4786092ad177f4cf5507523ba4d), [View on GSoC Archive](https://summerofcode.withgoogle.com/archive/2019/projects/6193798005129216/)
+- Core Developer of [amFOSS CMS](https://github.com/amfoss/cms) / [amFOSS Website](https://github.com/amfoss/website)
 
 ![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinshenoy&show_icons=true&hide_border=true)
-<!--
-- 😄 Pronouns: ...
-### ⚡ Fun fact: ...
-!>
-
-
