@@ -1,4 +1,4 @@
-## Ashwin Shenoy
+#Ashwin Shenoy
 #### Innovator | Problem Solver | Technologist
 
 ![](https://komarev.com/ghpvc/?username=aswinshenoy)
@@ -17,14 +17,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-#### Working on 
+#### What I am Presently Working On
 * **Squadegy** - Strategy Sport Fantasy App - https://squadegy.com
 
-#### 👨🏻‍💻 Past Projects
+#### 👨🏻‍💻 Things I have worked on in the past
 - **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
-- Picklst - List Sharing Application
+- **Google Summer of Code (GSoC) 2019** with **Salesforce** Open Source - [View Project Report](https://gist.github.com/aswinshenoy/36a1a4786092ad177f4cf5507523ba4d), [View on GSoC Archive](https://summerofcode.withgoogle.com/archive/2019/projects/6193798005129216/)
+- **[HackMe - Cisco SecCon 2020](https://github.com/j-harikrishnan/game.github.io)** - Cyber Security Awareness Game
 - Web Services for Vidyut 2020 
-- Google Summer of Code (GSoC) 2019 with Salesforce Open Source - [View Project Report](https://gist.github.com/aswinshenoy/36a1a4786092ad177f4cf5507523ba4d), [View on GSoC Archive](https://summerofcode.withgoogle.com/archive/2019/projects/6193798005129216/)
+- Picklst - List Sharing Application
 - Core Developer of [amFOSS CMS](https://github.com/amfoss/cms) / [amFOSS Website](https://github.com/amfoss/website)
 
 ![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinshenoy&show_icons=true&hide_border=true)
