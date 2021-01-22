@@ -18,9 +18,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 #### Projects I am working on Now
-- [**Traboda.com**](https://traboda.com) - Cybersecurity Edutech from team bi0s & amFOSS
-- [**Amrita.edu Event Management System**](https://events.amritauniversity.info) 
-- [**ShaktiCon Website**](https://shakticon.com)
+- [**Traboda**](https://traboda.com) - Cybersecurity Edutech from team bi0s & amFOSS
+- [**Event Management System for amrita.edu**](https://events.amritauniversity.info) 
+- [**ShaktiCon**](https://shakticon.com)
 
 #### 👨🏻‍💻 Things I have worked on in the past
 - **[BayJDO](https://github.com/aswinshenoy/bayjdo)** - Open Source File Transfer WebApp (live at [bayjdo.com](https://bayjdo.com))
