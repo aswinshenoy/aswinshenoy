@@ -31,5 +31,3 @@
 - Web Services for Vidyut 2020 
 - Picklst - List Sharing Application
 - Core Developer of [amFOSS CMS](https://github.com/amfoss/cms) / [amFOSS Website](https://github.com/amfoss/website)
-
-![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=aswinshenoy&show_icons=true&hide_border=true)
